@@ -1,0 +1,16 @@
+{
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "algorithm": "sha256",
+    "peerMagic": "f9beb4d9",
+    "peerMagicTestnet": "0b110907",
+    "getInfo": true,
+    "noNetworkInfo": false,
+    "noGetnetworkhashps": false,
+    "txfee": 0.0001,
+    "blockTime": 600,
+    "explorer": {
+        "txURL": "https://www.blockchain.com/btc/tx/",
+        "blockURL": "https://www.blockchain.com/btc/block/"
+    }
+}
